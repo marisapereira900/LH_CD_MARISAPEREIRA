@@ -17,11 +17,11 @@ O repositório contém os seguintes arquivos e pastas principais:
 ``` bash
 LH_CD_MARISA/
 │
-├── desafio_indicium_imdb/     # Pasta com os dados brutos utilizados
+├── desafio_indicium_imdb/     # Dados brutos utilizados
 ├── modelo_previsao.py         # Script com o modelo preditivo
-├── LH_CD_MARISA.ipynb         # Caderno Jupyter com toda a análise exploratória e desenvolvimento
-├── requirements.txt           # Dependências do projeto
-└── README.md                  # Documentação do projeto
+├── LH_CD_MARISA.ipynb         # Caderno Jupyter: Análises e relatórios das estatísticas
+├── requirements.txt           # Requisitos com todos os pacotes utilizados e suas versões
+└── README.md                  # Explicando como instalar e executar o projeto
 ```
 
 ---
