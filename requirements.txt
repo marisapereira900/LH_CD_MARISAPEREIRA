@@ -1,0 +1,32 @@
+1. Método Automático (Recomendado)
+
+Este é o método padrão. Ele usa o pip para gerar um arquivo com todas as bibliotecas instaladas no seu ambiente.
+
+Abra o seu terminal (no caso do Jupyter Notebook, você pode usar o terminal embutido) e execute o seguinte comando:
+
+pip freeze > requirements.txt
+
+Como funciona:
+
+pip freeze lista todos os pacotes instalados no ambiente Python e suas versões.
+
+> redireciona a saída desse comando para um novo arquivo, criando o requirements.txt.
+
+Depois de criar o arquivo, você pode compartilhá-lo com seu código. Para que outra pessoa instale as dependências, ela só precisa rodar:
+
+pip install -r requirements.txt
+
+2. Conteúdo do Arquivo (Método Manual)
+
+Se você preferir criar o arquivo manualmente, aqui está uma lista com todas as bibliotecas que foram usadas no projeto, juntamente com versões comuns e compatíveis.
+
+Crie um arquivo chamado requirements.txt na mesma pasta do seu projeto e adicione o seguinte conteúdo:
+
+pandas==2.0.3
+numpy==1.25.0
+scikit-learn==1.3.0
+xgboost==1.7.6
+nltk==3.8.1
+matplotlib==3.7.2
+seaborn==0.12.2
+joblib==1.3.1
