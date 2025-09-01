@@ -33,7 +33,7 @@ Se você quiser explorar o projeto por conta própria, basta seguir estes passos
 1. **Clone o repositório:**
 
 ```bash
-git clone [https://github.com/marisapereira900/-LH_CD_MARISAPEREIRADESOUZA.git]
+git clone [https://github.com/marisapereira900/LH_CD_MARISAPEREIRA.git]
 ```
 
 2. **Instale as dependências:**  
@@ -48,7 +48,7 @@ Abra o arquivo `lh_cd_marisa.ipynb` em seu Jupyter Notebook e execute as célula
 
 ---
 
-## 📧 Contato
+## Contato
 - **Nome:** Marisa Pereira  
 - **E-mail:** mariszprr@gmail.com  
 - **LinkedIn:** [www.linkedin.com/in/marisapereiradesouza](https://www.linkedin.com/in/marisapereiradesouza)
