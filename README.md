@@ -12,7 +12,7 @@ Para isso, a jornada foi dividida em três fases:
 ---
 
 ##  Estrutura do Projeto
-O repositório contém os seguintes arquivos e pastas principais:
+O repositório contém os seguintes arquivos:
 
 ``` bash
 LH_CD_MARISA/
